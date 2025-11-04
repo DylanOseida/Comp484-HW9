@@ -29,7 +29,8 @@ Define the string using double quotes, and ensure no escaping is required by usi
 **Exercise 4: Escaping and Console Output**
 Declare a variable named `errorMessage` and assign it a string defined using single quotes. 
 The string content must be: `An internal server error occurred: "Access Denied"`. 
-Use the backslash escape character to properly include the double quotes within the single-quoted string definition. Log the `errorMessage` variable.
+Use the backslash escape character to properly include the double quotes within the single-quoted string definition. 
+Log the `errorMessage` variable.
 
 **Exercise 5: Type Coercion with Non-Plus Operators**
 Set `valueA` to the number 10 and `valueB` to the string "4". 
